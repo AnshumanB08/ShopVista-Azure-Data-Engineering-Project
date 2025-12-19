@@ -88,7 +88,7 @@ This structure enables centralized storage and traceability of source data.
 
 - A fully automated **daily Databricks job** was created to process:
   - Dimension tables (Customers, Products, Categories, Brands, Date)
-  - Fact Orders data
+  - Fact Order Items
 - Ensures fresh, analytics-ready data every day
 - Dependencies enforced between dimension and fact processing, guaranteeing data consistency
 
@@ -99,8 +99,8 @@ This structure enables centralized storage and traceability of source data.
 ![Monthly Job](monthly_job.png)
 
 - A separate **monthly job** processes:
-  - Order Returns
-  - Order Shipments
+  - Fact Order Returns
+  - Fact Order Shipments
 - This design optimizes compute usage while supporting accurate historical trend analysis.
 
 ---
