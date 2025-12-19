@@ -1,4 +1,4 @@
-# 🛒 ShopVista – End-to-End E-Commerce Data Engineering Project (Azure Databricks)
+# 🛒 ShopVista – End-to-End E-Commerce Data Engineering (Azure Databricks)
 
 ## 📌 Project Overview
 
