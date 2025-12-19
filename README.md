@@ -119,8 +119,7 @@ The Power BI dashboard provides actionable insights such as:
 - Sales Channel Split (Mobile vs Website)
 - High-Profit Regions
 
-🔗 **Dashboard Preview:**  
-👉 *(Add your Power BI Service / portfolio link here)*
+🔗 **Dashboard Preview:** [*Click here*](https://app.powerbi.com/view?r=eyJrIjoiYjZhNzE3ZDAtZDU1Yi00ZjBjLTgwOTEtODFhYzUzN2VlNTI3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
