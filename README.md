@@ -149,7 +149,7 @@ The Power BI dashboard provides actionable insights such as:
 
 ## 🙏 Acknowledgements
 
-Special thanks to **Codebasics** for their exceptional **Data Engineering course**, hands-on project guidance, and real-world problem statements that enabled me to design and implement this end-to-end Azure data platform.
+Special thanks to **Codebasics** for their exceptional **Data Engineering Course**, hands-on project guidance, and real-world problem statements that enabled me to design and implement this end-to-end Azure data platform.
 
 ---
 
